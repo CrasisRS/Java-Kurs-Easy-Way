@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Javakurs.iml" filepath="$PROJECT_DIR$/.idea/Javakurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs OOP II/Udemy-Java-Kurs OOP II.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs OOP II/Udemy-Java-Kurs OOP II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-Array/Udemy-Java-Kurs-Array.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-Array/Udemy-Java-Kurs-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-Grundlagen/Udemy-Java-Kurs-Grundlagen.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-Grundlagen/Udemy-Java-Kurs-Grundlagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-InputOutput/Udemy-Java-Kurs-InputOutput.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-InputOutput/Udemy-Java-Kurs-InputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-Kontrollstrukturen/Udemy-Java-Kurs-Kontrollstrukturen.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-Kontrollstrukturen/Udemy-Java-Kurs-Kontrollstrukturen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-Methoden/Udemy-Java-Kurs-Methoden.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-Methoden/Udemy-Java-Kurs-Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-OOP I/Udemy-Java-Kurs-OOP I.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-OOP I/Udemy-Java-Kurs-OOP I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-OOP III/Udemy-Java-Kurs-OOP III.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-OOP III/Udemy-Java-Kurs-OOP III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-OOP IV/Udemy-Java-Kurs-OOP IV.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-OOP IV/Udemy-Java-Kurs-OOP IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kurs-Übung I/Udemy-Java-Kurs-Übung I.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kurs-Übung I/Udemy-Java-Kurs-Übung I.iml" />
+    </modules>
+  </component>
+</project>
